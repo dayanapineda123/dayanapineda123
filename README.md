@@ -1,20 +1,16 @@
 
-<!-- ANIMATED HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Developer;Software+Architect;AI+%26+Cloud+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&pause=1200&color=DB91C5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dayana+Pineda+Giraldo;Junior+Software+Developer;Learning+and+Growing+Every+Day+%E2%9C%A8" />
 
-<h2>Senior Full-Stack & AI Developer | Cloud Architect</h2>
+<h2>🌸 Junior Software Developer</h2>
 
 <p>
-  <a href="https://secastrog.github.io/">
-    <img src="https://img.shields.io/badge/MY_VIRTUAL_PORTFOLIO-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dayana-pineda-giraldo-353446274">
+    <img src="https://img.shields.io/badge/LinkedIn-CB86B9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/REEMPLAZAR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:dayanapinedag883@gmail.com">
+    <img src="https://img.shields.io/badge/Email-BB91CF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -22,67 +18,61 @@
 
 ---
 
-## 🚀 About Me
+## 🌷 About Me
 
-I'm a Full-Stack Software Developer focused on building enterprise applications, scalable backend systems, cloud architectures and AI-powered solutions.
+Hello! I'm **Dayana Pineda Giraldo**, a junior software developer passionate about technology, programming and continuous learning.
 
-My experience combines software engineering, system integration, database optimization and technical architecture to transform complex business requirements into reliable and efficient solutions.
+I'm interested in building digital experiences, developing software solutions and expanding my knowledge in different areas of technology.
 
-- 🏗️ **Architecture:** Microservices, Clean Architecture, SOLID Principles and REST APIs.
-- 🤖 **AI & Automation:** LLMs, OpenAI and intelligent business process automation.
-- 💻 **Backend Development:** C#, .NET, Python and scalable APIs.
-- 🌐 **Frontend Development:** Angular, TypeScript and React.
-- ☁️ **Cloud & DevOps:** Microsoft Azure, AWS, Docker and Kubernetes.
-- 🎯 **Focus:** Building maintainable software and technology that creates business value.
+I enjoy learning new tools, improving my programming skills and taking on new challenges.
+
+- 💻 Interested in software development.
+- 🐍 Learning and working with Python.
+- 🌐 Exploring web development.
+- 🎨 Interested in creating attractive and functional interfaces.
+- 🌱 Always learning and growing.
 
 ---
 
-## 🛠️ Tech Stack
+## 💜 My Tech Stack
 
 <div align="center">
 
-### Programming Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,angular,react,nodejs" />
-
-### Cloud, Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,linux,git,github,html,css" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=light" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## ✨ Technologies
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Secastrog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secastrog&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Secastrog&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-E8A0BF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-D8B4E2?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-B695D6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-CB86B9?style=for-the-badge&logo=javascript&logoColor=white" />
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🌸 GitHub Statistics
 
-- **GuardPay:** Payment ecosystem integrating PayIn, PayOut and digital payment solutions across Latin America.
-- **AI Solutions:** Intelligent automation and AI-powered business applications.
-- **Software Architecture:** Scalable backend services, integrations and enterprise applications.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dayanapineda123&show_icons=true&theme=dracula&hide_border=true&title_color=E8A0BF&icon_color=CB86B9" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanapineda123&layout=compact&theme=dracula&hide_border=true&title_color=E8A0BF" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 Always learning. Always building.
+### 🌷 Learning, creating and growing every day.
 
-<img src="https://komarev.com/ghpvc/?username=Secastrog&label=Profile%20Views&color=00AEEF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=dayanapineda123&label=Profile%20Views&color=CB86B9&style=flat" />
 
 </div>
